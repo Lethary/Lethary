@@ -1,9 +1,4 @@
-<!-- Fond galaxie via GIF -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc201Nzd0bHZ6djc0eGl6aW9qa2o5YmMyNHg5dHo5MDN5MWZyNnN6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kFVqSiGPChgulLZLW/giphy.gif" width="100%" alt="Background Space" />
-</p>
-
-<img align='right' src='https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif' width='200'>
+<img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc201Nzd0bHZ6djc0eGl6aW9qa2o5YmMyNHg5dHo5MDN5MWZyNnN6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kFVqSiGPChgulLZLW/giphy.gif' width='200'>
 
 # 👋 Hello, Lethary! 
 
@@ -46,8 +41,6 @@ I love creating projects, experimenting with new tools, and bringing my ideas to
 ## ☎️ Connect with me 🌐
 <p align="left">
 <a href="https://www.linkedin.com/in/kevin-boudet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://boudetk.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="mailto:ton.email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
