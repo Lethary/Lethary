@@ -1,4 +1,4 @@
-<img align='right' src='https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif' width='200'>
+<img align='right' src='https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://giphy.com/gifs/trippy-space-5kFVqSiGPChgulLZLW)' width='200'>
 
 # 👋 Hello, Lethary! 
 
