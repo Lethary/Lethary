@@ -1,10 +1,10 @@
 <img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc201Nzd0bHZ6djc0eGl6aW9qa2o5YmMyNHg5dHo5MDN5MWZyNnN6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kFVqSiGPChgulLZLW/giphy.gif' width='200'>
 
-# 👋 Hello, Lethary! 
+# 👋 Hello, I'm Lethary! 
 
-![GitHub followers](https://img.shields.io/github/followers/Lethary?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Lethary?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Lethary&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/Lethary?style=social&color=purple)
+![GitHub stars](https://img.shields.io/github/stars/Lethary?style=social&color=purple)
+![Profile views](https://komarev.com/ghpvc/?username=Lethary&color=purple)
 
 I am a **BTS SIO SLAM student**, passionate about **web development**, **programming**, and all things **technology**.  
 I love creating projects, exploring new tools, and bringing ideas to life 🚀  
@@ -21,14 +21,20 @@ I love creating projects, exploring new tools, and bringing ideas to life 🚀
 
 ## 🛠️ Skills & Technologies
 
-### 🌐 Web & Backend
-[![Web](https://skillicons.dev/icons?i=php,html,css,js)](./)
+### 🌌 Web & Backend
+[![PHP](https://skillicons.dev/icons?i=php)](./)
+[![HTML](https://skillicons.dev/icons?i=html)](./)
+[![CSS](https://skillicons.dev/icons?i=css)](./)
+[![JS](https://skillicons.dev/icons?i=js)](./)
 
-### 💻 Programming
-[![Programming](https://skillicons.dev/icons?i=java,mysql)](./)
+### 💻 Programming & Databases
+[![Java](https://skillicons.dev/icons?i=java)](./)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](./)
 
-### 🪧 Development Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github)](./)
+### 🪧 Dev Tools
+[![VSCode](https://skillicons.dev/icons?i=vscode)](./)
+[![Git](https://skillicons.dev/icons?i=git)](./)
+[![GitHub](https://skillicons.dev/icons?i=github)](./)
 
 ---
 
@@ -43,7 +49,11 @@ I love creating projects, exploring new tools, and bringing ideas to life 🚀
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lethary&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="182">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lethary&layout=compact&theme=radical" alt="Top Languages" width="400" height="175">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lethary&show_icons=true&theme=dracula" alt="GitHub Stats" width="400" height="182">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lethary&layout=compact&theme=dracula" alt="Top Languages" width="400" height="175">
   <img src="https://raw.githubusercontent.com/Lethary/Lethary/output/snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+🌌 *Exploring code and space, one line at a time…* 🚀
