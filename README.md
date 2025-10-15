@@ -1,17 +1,22 @@
-<img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc201Nzd0bHZ6djc0eGl6aW9qa2o5YmMyNHg5dHo5MDN5MWZyNnN6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kFVqSiGPChgulLZLW/giphy.gif' width='200'>
+<!-- Fond galaxie via GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Background Space" />
+</p>
 
-# 👋 Hello, I'm Lethary! 
+<img align='right' src='https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif' width='200'>
+
+# 👋 Hello, Lethary! 
 
 ![GitHub followers](https://img.shields.io/github/followers/Lethary?style=social&color=purple)
 ![GitHub stars](https://img.shields.io/github/stars/Lethary?style=social&color=purple)
 ![Profile views](https://komarev.com/ghpvc/?username=Lethary&color=purple)
 
-I am a **BTS SIO SLAM student**, passionate about **web development**, **programming**, and all things **technology**.  
-I love creating projects, exploring new tools, and bringing ideas to life 🚀  
+I am a **BTS SIO SLAM student**, passionate about **web development**, **programming**, and exploring new **technologies**.  
+I love creating projects, experimenting with new tools, and bringing my ideas to life 🚀  
 
 ---
 
-## 💻 Featured Projects
+## 💻 Featured Projects 🌟
 
 - [**Portfolio**](https://boudetk.fr) – My personal showcase of projects and skills  
 - [**TipEdge**](https://tipedge.eu) – A sports prediction platform developed entirely by me  
@@ -19,7 +24,7 @@ I love creating projects, exploring new tools, and bringing ideas to life 🚀
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies 🚀
 
 ### 🌌 Web & Backend
 [![PHP](https://skillicons.dev/icons?i=php)](./)
@@ -38,7 +43,7 @@ I love creating projects, exploring new tools, and bringing ideas to life 🚀
 
 ---
 
-## ☎️ Connect with me
+## ☎️ Connect with me 🌐
 <p align="left">
 <a href="https://www.linkedin.com/in/kevin-boudet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://boudetk.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
@@ -47,13 +52,13 @@ I love creating projects, exploring new tools, and bringing ideas to life 🚀
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats 🌠
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lethary&show_icons=true&theme=dracula" alt="GitHub Stats" width="400" height="182">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lethary&layout=compact&theme=dracula" alt="Top Languages" width="400" height="175">
-  <img src="https://raw.githubusercontent.com/Lethary/Lethary/output/snake.svg" alt="Snake animation" />
+  
 </p>
 
 ---
 
-🌌 *Exploring code and space, one line at a time…* 🚀
+🌌 *Exploring code and space, one line at a time…* 🚀✨
