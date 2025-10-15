@@ -9,7 +9,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Lethary?style=social&color=purple)
 ![GitHub stars](https://img.shields.io/github/stars/Lethary?style=social&color=purple)
-![Profile views](https://komarev.com/ghpvc/?username=Lethary&color=purple)
+![Profile views](https://komarev.com/ghpvc/?username=Lethary)
 
 I am a **BTS SIO SLAM student**, passionate about **web development**, **programming**, and exploring new **technologies**.  
 I love creating projects, experimenting with new tools, and bringing my ideas to life 🚀  
