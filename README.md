@@ -1,6 +1,6 @@
 <!-- Fond galaxie via GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Background Space" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc201Nzd0bHZ6djc0eGl6aW9qa2o5YmMyNHg5dHo5MDN5MWZyNnN6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5kFVqSiGPChgulLZLW/giphy.gif" width="100%" alt="Background Space" />
 </p>
 
 <img align='right' src='https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif' width='200'>
