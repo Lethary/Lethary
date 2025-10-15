@@ -2,9 +2,9 @@
 
 # 👋 Hello, Lethary ! 
 
-![GitHub followers](https://img.shields.io/github/followers/LeBazarDeMoi?style=social)
-![GitHub stars](https://img.shields.io/github/stars/LeBazarDeMoi?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=LeBazarDeMoi&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/Lethary?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Letharyi?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Letharyi&color=blueviolet)
 
 I am a **BTS SIO SLAM student**, passionate about **web development** and **programming**.  
 I love creating projects, exploring new technologies, and bringing my ideas to life 🚀  
@@ -35,8 +35,6 @@ I love creating projects, exploring new technologies, and bringing my ideas to l
 ## ☎️ Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/kevin-boudet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://boudetk.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="mailto:kevin.boudet6@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
