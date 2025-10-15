@@ -4,7 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Lethary?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Letharyi?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Letharyi&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=Lethary&color=blueviolet)
 
 I am a **BTS SIO SLAM student**, passionate about **web development** and **programming**.  
 I love creating projects, exploring new technologies, and bringing my ideas to life 🚀  
@@ -43,7 +43,7 @@ I love creating projects, exploring new technologies, and bringing my ideas to l
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lethary&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="182">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lethary&layout=compact&theme=radical" alt="Top Languages" width="400" height="175">
-  <img src="https://raw.githubusercontent.com/LeBazarDeMoi/Lethary/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Lethary/Lethary/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
