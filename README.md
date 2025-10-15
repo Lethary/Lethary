@@ -43,8 +43,8 @@ I love creating projects, exploring new technologies, and bringing my ideas to l
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeMoi&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="182">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeBazarDeMoi&layout=compact&theme=radical" alt="Top Languages" width="400" height="175">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lethary&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="182">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lethary&layout=compact&theme=radical" alt="Top Languages" width="400" height="175">
   <img src="https://raw.githubusercontent.com/LeBazarDeMoi/LeBazarDeMoi/output/snake.svg" alt="Snake animation" />
 </p>
 
