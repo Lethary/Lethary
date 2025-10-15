@@ -3,7 +3,7 @@
 # 👋 Hello, Lethary ! 
 
 ![GitHub followers](https://img.shields.io/github/followers/Lethary?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Letharyi?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Lethary?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=Lethary&color=blueviolet)
 
 I am a **BTS SIO SLAM student**, passionate about **web development** and **programming**.  
